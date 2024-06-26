@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/world/sumara/kingdoms/countries/north-omika/north-omika/"}
 ---
 
-{Capital city - [[World/Sumara/Kingdoms/Countries/North Omika/Settlements/Omiris\|Omiris]]
+Capital city - [[World/Sumara/Kingdoms/Countries/North Omika/Settlements/Omiris\|Omiris]]
 **Ancient Beginnings:**
 
 - **Prehistoric Era:** The regions of [[World/Sumara/Kingdoms/Countries/Omika/Omika\|Omika]] and North Omika were originally inhabited by nomadic hunter-gatherer tribes. These early inhabitants held a deep reverence for nature, particularly the great tree that would later become known as the Lasting Tree. The Lasting Tree, believed to be a source of immense mystical power and longevity, was central to their spiritual beliefs and cultural practices.
