@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/world/sumara/kingdoms/alliances/the-central-alliance/"}
+---
+
+- **Members:** [[World/Sumara/Kingdoms/Countries/Serfden/Serfden\|Serfden]], [[World/Sumara/Kingdoms/Countries/Ebraetodour/Ebraetodour\|Ebraetodour]], [[World/Sumara/Kingdoms/Countries/Ghasila/Ghasila\|Ghasila]], [[World/Sumara/Kingdoms/Countries/LakeMarsh/LakeMarsh\|LakeMarsh]], [[World/Sumara/Kingdoms/Countries/Karia/Karia\|World/Sumara/Kingdoms/Countries/Karia/Karia]]
+- **Purpose:** To enhance economic cooperation, ensure environmental sustainability, and promote regional stability.
+- **Background:** Central Sumara, characterized by its fertile lands and bustling trade routes, sees a coalition of nations focused on economic prosperity and environmental conservation. Serfeden and [[World/Sumara/Kingdoms/Countries/Ebraetodour/Ebraetodour\|Ebraetodour]], with their strategic trade hubs, lead the alliance, while [[World/Sumara/Kingdoms/Countries/Ghasila/Ghasila\|Ghasila]], [[World/Sumara/Kingdoms/Countries/Karia/Karia\|World/Sumara/Kingdoms/Countries/Karia/Karia]] and [[World/Sumara/Kingdoms/Countries/LakeMarsh/LakeMarsh\|LakeMarsh]] contribute significant agricultural and environmental expertise.
