@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/world/sumara/kingdoms/alliances/the-western-coalition/"}
+---
+
+- **Members:** [[World/Sumara/Kingdoms/Countries/Kingdom of Kingsmad/Kingdom of Kingsmad\|Kingdom of Kingsmad]], The [[World/Sumara/Kingdoms/Countries/Sumexas Empire/Sumexas Empire\|Sumexas Empire]], [[World/Sumara/Kingdoms/Countries/Xegalla/Xegalla\|Xegalla]], [[World/Sumara/Kingdoms/Countries/The Dominian Empire/The Dominian Empire\|The Dominian Empire]], [[World/Sumara/Kingdoms/Countries/Sifa/Sifa\|Sifa]], [[World/Sumara/Kingdoms/Countries/Cresea/Cresea\|Cresea]]
+- **Purpose:** To ensure mutual defense against external threats, promote trade among western kingdoms, and stabilize the region.
+- **Background:** The [[World/Sumara/Kingdoms/Countries/Kingdom of Kingsmad/Kingdom of Kingsmad\|Kingdom of Kingsmad]], with its strategic location and strong military, leads this coalition. The [[World/Sumara/Kingdoms/Countries/Sumexas Empire/Sumexas Empire\|Sumexas Empire]], renowned for its cultural and technological advancements, brings valuable resources and knowledge to the alliance. [[World/Sumara/Kingdoms/Countries/Xegalla/Xegalla\|Xegalla]], [[World/Sumara/Kingdoms/Countries/Sifa/Sifa\|Sifa]], [[World/Sumara/Kingdoms/Countries/Cresea/Cresea\|Cresea]], and [[World/Sumara/Kingdoms/Countries/The Dominian Empire/The Dominian Empire\|The Dominian Empire]], all with rich histories and significant influence, round out this powerful coalition.
