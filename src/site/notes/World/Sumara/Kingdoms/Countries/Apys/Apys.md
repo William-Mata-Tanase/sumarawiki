@@ -105,3 +105,4 @@ As Apys moves forward, it remains a beacon of harmony and diversity, a testament
 
 [[World/Npc/Regular Npc's/Normal people/Jiju\|Jiju]] - Former Prince of Apys
 [[World/Npc/Gods, Demigods and Devine Beasts/Way of The Great Ape/Devine Beasts/Laoteng\|Laoteng]] - Guardian of Apys
+[[World/Npc/Regular Npc's/Kings, queens and important figures/King Jinko of Apys\|King Jinko of Apys]] - King of Apys
