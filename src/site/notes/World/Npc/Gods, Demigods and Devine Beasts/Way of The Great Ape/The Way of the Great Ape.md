@@ -9,7 +9,7 @@
 
 #### Creation Myth
 
-According to Simian lore, the Great Ape formed the world with the help of Xintao, the Celestial Dragon God from the cosmic jungle, weaving vines and shaping mountains with divine hands. The first Simians were created from the fertile soil, breathed to life with the essence of the Great Ape. These first beings were tasked with nurturing the world, preserving its beauty, and seeking enlightenment through knowledge and wisdom.
+According to Simian lore, the Great Ape formed the world with the help of [[World/Npc/Gods, Demigods and Devine Beasts/Way of The Great Ape/Gods/Xintao, the Celestial Dragon God\|Xintao, the Celestial Dragon God]] from the cosmic jungle, weaving vines and shaping mountains with divine hands. The first Simians were created from the fertile soil, breathed to life with the essence of the Great Ape. These first beings were tasked with nurturing the world, preserving its beauty, and seeking enlightenment through knowledge and wisdom.
 
 #### Core Beliefs and Practices
 
