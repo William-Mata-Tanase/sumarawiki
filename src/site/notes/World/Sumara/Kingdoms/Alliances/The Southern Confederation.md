@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/world/sumara/kingdoms/alliances/the-southern-confederation/"}
+---
+
+- **Members:** [[World/Sumara/Kingdoms/Countries/SudBurn Empire/SudBurn Empire\|SudBurn Empire]], [[World/Sumara/Kingdoms/Countries/Dahkarhia/Dahkarhia\|Dahkarhia]], [[World/Sumara/Kingdoms/Countries/Deva'Ni/Deva'Ni\|Deva'Ni]], [[World/Sumara/Kingdoms/Countries/Rivenia/Rivenia\|Rivenia]], [[World/Sumara/Kingdoms/Countries/Kingdom of the Twin Islands/Kingdom of the Twin Islands\|Kingdom of the Twin Islands]], [[World/Sumara/Kingdoms/Countries/Ephasia/Ephasia\|Ephasia]]
+- **Purpose:** To defend against southern incursions, promote cultural exchanges, and manage shared waterways.
+- **Background:** The southern regions, with their rich cultural heritage and strategic locations, form a confederation to defend against external threats and promote unity. The [[World/Sumara/Kingdoms/Countries/SudBurn Empire/SudBurn Empire\|SudBurn Empire]] and [[World/Sumara/Kingdoms/Countries/Dahkarhia/Dahkarhia\|Dahkarhia]] known for their military prowess, take the lead, while [[World/Sumara/Kingdoms/Countries/Deva'Ni/Deva'Ni\|Deva'Ni]], [[World/Sumara/Kingdoms/Countries/Rivenia/Rivenia\|Rivenia]], [[World/Sumara/Kingdoms/Countries/Ephasia/Ephasia\|Ephasia]], and the [[World/Sumara/Kingdoms/Countries/Kingdom of the Twin Islands/Kingdom of the Twin Islands\|Kingdom of the Twin Islands]] contribute cultural and diplomatic strengths.
