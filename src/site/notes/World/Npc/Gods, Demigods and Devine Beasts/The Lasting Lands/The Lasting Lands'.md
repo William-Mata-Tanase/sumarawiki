@@ -4,7 +4,7 @@
 
 #### The Primordial Giants
 
-In the dawn of time, before the formation of [[World/Sumara/Geography/The Triad Lands/The Sumexas Plateau\|the Sumexas Plateau]] and [[World/Sumara/Geography/The Lasting Lands\|World/Sumara/Geography/The Lasting Lands]], the world was a chaotic expanse of untamed magic and raw elemental power. From this primordial chaos emerged the **Giants of Creation**—immense beings of earth, fire, water, and air. These giants were tasked by the Elder Gods to shape the land and bring order to the chaotic world.
+In the dawn of time, before the formation of [[World/Sumara/Geography/The Triad Lands/The Sumexas Plateau\|the Sumexas Plateau]] and [[World/Sumara/Geography/The Lasting Lands\|The Lasting Lands]], the world was a chaotic expanse of untamed magic and raw elemental power. From this primordial chaos emerged the **Giants of Creation**—immense beings of earth, fire, water, and air. These giants were tasked by the Elder Gods to shape the land and bring order to the chaotic world.
 
 #### The Giant Wars
 
