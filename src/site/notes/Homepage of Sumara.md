@@ -72,6 +72,6 @@ Geography:
 
 
 Npcs:
-Knights and Generals
+[[World/Npc/Regular Npc's/Knights and Generals/Knights and Generals\|Knights and Generals]]
 [[World/Npc/Regular Npc's/Kings, queens and important figures/Kings, Queens and Important Figures\|Kings, Queens and Important Figures]]
 [[World/Npc/Regular Npc's/Normal people/Normal people\|Normal People]]
